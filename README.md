@@ -24,6 +24,8 @@ Handles file-related exceptions
 
 Properly closes all file resources
 
+---
+
 🛠 Technologies Used
 
 Java (JDK 8 or above)
